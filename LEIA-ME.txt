@@ -1,0 +1,7 @@
+Export estatico do site Meregali (Framer) - 2026-09-23T02:49:22.602Z
+Paginas: / , /bottom-game, /top-game, /bundle
+Scripts do Framer removidos: animacoes, formularios, carrosseis e tracking nao funcionam.
+Abra index.html no navegador ou suba a pasta num host estatico.
+
+Assets que falharam:
+https://framerusercontent.com/sites/icons/default-favicon-light.v1.png
